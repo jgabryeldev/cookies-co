@@ -125,7 +125,15 @@ body {
   display: block;
   margin: 0 auto;
 }
-
+.conteudo-principal-escrito-subtitulo2{
+  width: 70%;
+}
+.img2{
+  padding-right: 9%;
+}
+.escrito2{
+  padding-left: 5%;
+}
 @media (max-width: 996px){
   .conteudo-principal{
     flex-direction: column-reverse;
